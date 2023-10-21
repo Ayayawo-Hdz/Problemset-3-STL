@@ -1,3 +1,4 @@
+//CodeForces-1850A
 #include <iostream>
 
 using namespace std;
